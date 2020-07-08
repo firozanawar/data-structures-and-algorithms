@@ -4,7 +4,7 @@ package leetcode;
  * Problem statement link : https://leetcode.com/problems/reverse-integer/
  * Solution :
  */
-public class ReverseInteger {
+public class ReverseInteger7 {
 
     public static void main(String[] args) {
         int number  = 120;

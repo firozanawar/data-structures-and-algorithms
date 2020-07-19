@@ -46,5 +46,4 @@ public class TwoSum1 {
         }
         return new int[] {};
     }
-
 }
